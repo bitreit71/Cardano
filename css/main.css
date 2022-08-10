@@ -201,11 +201,10 @@ z-index: -1;
   color: white;
   font-weight: bold;
   width: 270px;
-height: 58px;
-margin-left: 30px;
-background: #34C100;
-border-radius: 6px;
-position: relative;
+  height: 58px;
+  background: #34C100;
+  border-radius: 6px;
+  position: relative;
 
 }
 .quantity_inner button:before {
